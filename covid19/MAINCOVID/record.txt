@@ -1,0 +1,7 @@
+Northy23,56789,1,Nattapol,Nueyen,20,Male,185,70,None,No,Yes,Pfizer,Pfizer,Pfizer,None
+Kerk12,11111,4,Kerking,Johnson,24,Male,67,190,None,No,Yes,Sinovec,Sinovec,Sinovec,None
+natty,33333,6,Nattapol,yoyo,12,Male,170,45,None,Yes,Yes,Sinovec,Moderna,Other,None
+armer,55555,7,Tanny,Teddy,31,Male,70,180,None,Yes,Yes,Sinovec,Sinovec,Sinovec,None
+kerkkaiwan,258258258,4,kerkkaiwan,Supaseab,19,Male,65,172,None,Yes,Yes,AstraZeneca,AstraZeneca,Moderna,None
+kerk,123456,5,Neracha,III,20,Male,187,65,None,Yes,Yes,Pfizer,Sinovec,Pfizer,None
+Kerkkaiwan,123456,6,kerkkaiwan,Supaseab,19,Male,65,172,None,Yes,Yes,AstraZeneca,AstraZeneca,Pfizer,None
